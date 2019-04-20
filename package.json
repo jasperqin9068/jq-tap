@@ -1,0 +1,22 @@
+{
+  "name": "jq-tap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasperqin9068/jq-tap.git"
+  },
+  "keywords": [
+    "jq-tap"
+  ],
+  "author": "jasperqin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasperqin9068/jq-tap/issues"
+  },
+  "homepage": "https://github.com/jasperqin9068/jq-tap#readme"
+}
